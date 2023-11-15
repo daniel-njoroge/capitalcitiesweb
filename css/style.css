@@ -1,0 +1,107 @@
+#container{
+margin: 0 auto;
+width:100%;}
+
+#header{
+width:100%;
+text-align:center;
+background-color:#26547C;
+padding:7px 0px;}
+    
+#menu{
+width: 100%;
+float:left;
+background-color:#FFD166;
+padding:5px 0px;}
+  
+#menu ul li{
+list-style-type:none;
+display:inline;}
+  
+#menu li a{
+display:block;
+text-decoration:none;
+border-right:2px solid;
+padding:0 30px;
+float:left;}
+
+#content{
+width:100%;
+height:600px;
+display: inline;}
+
+#cont1{
+width:100%;
+height:230px;
+display: flex;}
+
+#city1{
+float:left;
+width:30%;
+height:230px;}
+
+.Nairobi{
+width:100%;
+height:80%;
+}
+
+#city2{
+width:30%;
+margin-left:auto;
+margin-right:auto;
+height:230px;
+display: inline-block}
+
+.London{
+width:100%;
+height:80%;}
+
+#city3{
+float:right;
+width:30%;
+height:230px;}
+
+.capetown{
+width:100%;
+height:80%;}
+
+#cont2{
+width:100%;
+height:230px;
+display: flex;}
+    
+#city4{
+float:left;
+width:30%;
+height:230px;} 
+
+.Paris{
+width:100%;
+height:80%;}
+    
+#city5{
+width:30%;
+margin-left:auto;
+margin-right:auto;
+height:230px;
+display: inline-block}
+
+.Tokyo{
+width:100%;
+height:80%;}
+    
+#city6{
+float:right;
+width:30%;
+height:230px;}
+
+.Brasilia{
+width:100%;
+height:80%;}
+
+#footer {
+width:98.2%;
+background-color:#26547C;
+text-align:center;
+bottom:10px;
+position:absolute;}
